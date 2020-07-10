@@ -6,7 +6,7 @@ Package name: paynamics/module-magento2-gateway
 Instructions:
 
 Option 1: 
-Install git via composer
+Install git via composer.
 
 Option 2:
 1. Create 'code' folder under app and install the module in your directory.
