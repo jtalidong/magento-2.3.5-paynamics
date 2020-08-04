@@ -25,4 +25,4 @@ Option 2:
 4. Configure your merchant credentials in the admin configuration page.
    Merchant credentials will be provided by your contact person.
 
-Happy coding! :)
+Happy coding! :) 
