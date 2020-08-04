@@ -7,6 +7,11 @@ Instructions:
 
 Option 1: 
 Install git via composer.
+1. Add composer repository for the plugin: 
+   composer config repositories.paynamics git "https://github.com/jstuvwxyz/magento-2.3.5-paynamics.git"
+
+2. Install git via composer: 
+   composer require paynamics/module-magento2-gateway
 
 Option 2:
 1. Create 'code' folder under app and install the module in your directory.
@@ -20,4 +25,4 @@ Option 2:
 4. Configure your merchant credentials in the admin configuration page.
    Merchant credentials will be provided by your contact person.
 
-Happy coding! :)
+Happy coding! :) 
